@@ -6,3 +6,9 @@ as versões do requirements.txt devem ser as mais atuais possíveis pra evitar c
 criar um app básico no main.app
 executar docker-compose up
 
+**************************************************************
+Criar o modelo de dados que receberá as informações da outra aplicacao.
+
+Product e ProductUser receberão informações da outra aplicação(main)
+Pro isso não habilitamos o autoincrement de chave para Produto
+O ProductUser cria um relacionamento entre produto e usuario
