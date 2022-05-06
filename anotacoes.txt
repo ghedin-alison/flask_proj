@@ -1,0 +1,8 @@
+Criar a pasta main e abrir como projeto pycharm
+não vincular com venv
+copiar dockerfile e docker-compose
+alterar as portas que podem dar conflito com o outro projeto
+as versões do requirements.txt devem ser as mais atuais possíveis pra evitar conflitos
+criar um app básico no main.app
+executar docker-compose up
+
