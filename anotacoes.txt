@@ -12,3 +12,8 @@ Criar o modelo de dados que receberá as informações da outra aplicacao.
 Product e ProductUser receberão informações da outra aplicação(main)
 Pro isso não habilitamos o autoincrement de chave para Produto
 O ProductUser cria um relacionamento entre produto e usuario
+
+************************************************
+criar o arquivo manager.py
+abrir um novo terminal e executar docker-compose exec backend sh
+
